@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\activity\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "D:\\activity\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "D:\\activity\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "D:\\activity\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "D:\\activity\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "D:\\activity\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "D:\\activity\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "D:\\activity\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_b.xml"
+    }
+]
